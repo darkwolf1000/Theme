@@ -1,0 +1,58 @@
+/* Customize */
+:root {
+
+    /* Server image/profile pictures roundness (Default: 0px) */
+    --server-list-rounding: 0px;
+
+}
+
+foreignObject {
+    mask: none;
+}
+* {
+    border-radius: 0 !important;
+}
+
+/* Settings */
+
+    /* General */
+        
+          
+
+        /* Sliders */
+            .container-2nx-BQ {
+                border-radius: 0px;
+                background-color: var(--color10) !important;
+            }
+            .container-2nx-BQ[style*="background-color: hsl(218"] {
+                background-color: var(--color1) !important;
+            }
+            .slider-32CRPX > rect {
+                border-radius: 0px;
+                fill: var(--background-color);
+                rx: 0px;
+                width: 10px;
+                x: 14;
+            }
+   
+        /* Selection */
+            
+            .radioBar-3w9XY- svg path {
+                mask: none;
+                border-radius: 0;
+                overflow: visible;
+                fill: none;
+            }
+
+/* BD Settings */
+    
+    /* General */
+        /* Sliders */
+          
+            .bd-switch-slider > rect {
+                border-radius: 0px;
+                fill: var(--background-color);
+                rx: 0px;
+                width: 10px;
+                x: 4;
+            }
